@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%87CEEB;&size=30&center=true&vCenter=true&width=450&lines=Hey! Im  Benyamin"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FFA500;&size=30&center=true&vCenter=true&width=450&lines=Hey! Im  Benyamin"></a>
 </div>
 "Computer science student deeply passionate about algorithms and working with data, seeking to explore their applications in innovative ways and collaborate on impactful projects."
 
